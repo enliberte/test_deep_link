@@ -1,0 +1,23 @@
+{
+  "name": "test_deep_link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enliberte/test_deep_link.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enliberte/test_deep_link/issues"
+  },
+  "homepage": "https://github.com/enliberte/test_deep_link#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
