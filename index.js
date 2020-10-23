@@ -1,1 +1,1 @@
-window.location = 'favlist://auth';
+window.location = `favlist://auth?token=${Date.now()}`;
